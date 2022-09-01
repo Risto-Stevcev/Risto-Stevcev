@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Common Lisp, Prolog and logic systems
+- 📫 How to reach me: [visit my website](https://risto.codes)
+- :coffee: [Buy me a coffee](https://www.buymeacoffee.com/risto1)

@@ -1,9 +1,10 @@
-## [:coffee: Buy me a coffee](https://www.buymeacoffee.com/risto1)
+# **Note:** All of my code is now in [fossils](https://fossils.risto.codes/)
 
-```prolog
-name('Risto Stevcev').
-email('risto1@gmail.com').
-email('me@risto.codes').
-website('https://risto.codes').
-support('Buy me a coffee', 'https://www.buymeacoffee.com/risto1').
-```
+Mirrors:
+
+- https://fossils.risto.codes (`fossil`)  
+- https://gitlab.com/risto1/fossils (`git`)  
+- https://git.sr.ht/~risto/fossils (`git`)  
+- https://codeberg.org/risto/fossils (`git`)  
+
+## [:coffee: Buy me a coffee](https://www.buymeacoffee.com/risto1)

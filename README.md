@@ -2,7 +2,7 @@
 
 I'm working on:
 
-- Composable, declarative UI (compiler-free)
+- Simple, composable, declarative UI (compiler-free)
 - Cross-platform UI toolkit, including TUI support 
 - Logic programming tools to help with reasoning about a problem domain (expert systems, induction, abduction, deduction)
 - Minimalistic, extendable, composable, auditable linux programs and programming tools ([Suckless](suckless.org/)-style, WM, terminal emulator, lock screen, dhcp, tar, base, plan9, etc)

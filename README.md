@@ -5,7 +5,7 @@ I'm working on:
 - Simple, composable, declarative UI (compiler-free)
 - Cross-platform UI toolkit, including TUI support 
 - Logic programming tools to help with reasoning about a problem domain (expert systems, induction, abduction, deduction)
-- Minimalistic, extendable, composable, auditable linux programs and programming tools ([Suckless](suckless.org/)-style, WM, terminal emulator, lock screen, dhcp, tar, base, plan9, etc)
+- Minimalistic, extendable, composable, auditable linux programs and programming tools (WM, terminal emulator, lock screen, dhcp, tar, base, plan9, etc)
 - Web 3.0 tools (no blockchain)
 - Monetizable mixed open/closed source models (zero trust, fully auditable)
 
